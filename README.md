@@ -1,2 +1,2 @@
-# weby-studio.github.io
-Public
+# Weby
+### Public
